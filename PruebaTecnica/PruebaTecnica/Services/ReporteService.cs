@@ -43,7 +43,7 @@ public class ReporteService : IReporteService
             // Agregar la información de la cuenta y sus movimientos al reporte
             var cuentaReporteDto = new CuentaReporteDto
             {
-                NumeroCuenta = cuenta.CuentaId,
+                NumeroCuenta = cuenta.NumeroCuenta,
                 TipoCuenta = cuenta.TipoCuenta,
                 SaldoInicial = cuenta.SaldoInicial,
                 Movimientos = movimientos.Select(m => new MovimientoReporteDto

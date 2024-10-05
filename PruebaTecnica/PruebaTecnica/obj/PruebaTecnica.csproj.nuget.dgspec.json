@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {}
+    "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
+    "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectUniqueName": "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
         "projectName": "PruebaTecnica",
-        "projectPath": "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectPath": "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
         "packagesPath": "C:\\Users\\mattg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\obj\\",
+        "outputPath": "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mattg\\AppData\\Roaming\\NuGet\\NuGet.Config",

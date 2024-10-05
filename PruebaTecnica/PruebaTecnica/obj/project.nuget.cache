@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yip2g3r4JjRXKtvT/7h8mxIHgRWGF2PvCOhfJdbm22IFKwF3utDVRlNV4bS8OOTJmYgZ3ir07Jzu2vmTvdQ0LA==",
+  "dgSpecHash": "TkikvmA2DHUu0n47cM+6xT0vNgFdIwJsW2/+fsrMcQ5jxBzApD/T3r/8yFpgDDgxJBtTdeXS0LFYj4sVFqPRrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mattg\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+  "projectFilePath": "C:\\Users\\mattg\\OneDrive\\Documentos\\GitHub\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mattg\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mattg\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
